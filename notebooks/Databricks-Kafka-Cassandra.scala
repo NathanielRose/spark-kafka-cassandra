@@ -11,3 +11,5 @@ dbutils.fs.mount(
 
 // MAGIC %python
 // MAGIC 1+1
+// MAGIC 
+// MAGIC print("Testing from chrome")
